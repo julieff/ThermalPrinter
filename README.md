@@ -1,9 +1,8 @@
 # MXW01 Thermal Printer
 
 Standalone Python tools for the Winner Group C15 WG (code 13019), Bluetooth
-name `MXW01`. The XAPK in this repository was used to investigate its BLE
-protocol. The text printer sends raster images; it does not rely on the
-Android app or on a captured CSV file.
+name `MXW01`.XAPK of Fun print app was used to investigate its BLE
+protocol.
 
 ## Print text
 
